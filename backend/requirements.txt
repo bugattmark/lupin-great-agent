@@ -1,0 +1,10 @@
+fastapi==0.121.2
+uvicorn==0.38.0
+sqlalchemy==2.0.44
+aiosqlite==0.21.0
+httpx==0.28.1
+sse-starlette==3.0.3
+pydantic==2.12.4
+python-multipart==0.0.20
+python-dotenv==1.2.1
+greenlet==3.2.4
